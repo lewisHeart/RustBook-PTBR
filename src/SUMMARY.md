@@ -4,9 +4,9 @@
 [Prefácio](foreword.md)
 [Introdução](ch00-00-introduction.md)
 
-## Getting started
+## Começando
 
-- [Getting Started](ch01-00-getting-started.md)
+- [Começando](ch01-00-getting-started.md)
     - [Installation](ch01-01-installation.md)
     - [Hello, World!](ch01-02-hello-world.md)
     - [Hello, Cargo!](ch01-03-hello-cargo.md)
