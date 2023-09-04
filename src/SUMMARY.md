@@ -8,7 +8,7 @@
 
 - [Começando](ch01-00-getting-started.md)
     - [Instalação](ch01-01-installation.md)
-    - [Hello, World!](ch01-02-hello-world.md)
+    - [Olá, Mundo!](ch01-02-hello-world.md)
     - [Hello, Cargo!](ch01-03-hello-cargo.md)
 
 - [Programming a Guessing Game](ch02-00-guessing-game-tutorial.md)
